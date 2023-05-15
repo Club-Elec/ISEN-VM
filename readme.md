@@ -10,7 +10,7 @@ De plus, la VM possède Git, SSH, Gcc, le combo parfait pour commencer à coder.
 
 ## Téléchargement & installation
 
-La machine virtuelle peut être téléchargé [ici]().  
+La machine virtuelle peut être téléchargé [ici](https://drive.google.com/file/d/1EwBesBKyCjHZU2GJmtZNtqWXQQrWqYKA/view?usp=sharing).  
 Pour l'installer il vous faudra Oracle VM VirtualBox.  
 ![VirtualBox](screen/virtualbox.png)
   
@@ -29,6 +29,9 @@ Une fois que c'est bon cliqué sur `Finish`, normallement la machine virtuelle s
 Les identifiants de la VM sont:  
 Nom d'utilisateur: `isen`  
 Mot de passe: `isen29`  
+
+De plus il est important d'activer la virtualisation dans votre BIOS, pour ça il suffit d'aller dans votre BIOS et de mettre la ligne `virtualisation` sur activé.
+[Tuto pour windows](https://support.microsoft.com/fr-fr/windows/activer-la-virtualisation-sur-windows-11-pc-c5578302-6e43-4b4b-a449-8ced115f58e1)
 
 ## Ajout supplémentaire
 
