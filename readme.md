@@ -23,7 +23,7 @@ Ensuite cliquez sur `Importer un appareil virtuel...`, cela devrait ouvrir une f
 Maintenant choisissez l'endroit où vous avez téléchargé la machine virtuelle de l'isen, et ouvrez là, puis cliquez sur suivant.
 ![VirtualBox importation finish](screen/virtualbox-import-finish.png)
 
-Vous pouvez modifier le `Machine Base Folder`, c'est l'endroit où votre machine virtuel est enregistré.  
+Vous pouvez modifier le `Machine Base Folder`, c'est l'endroit où votre machine virtuelle est enregistré.  
 Une fois que c'est bon cliqué sur `Finish`, normallement la machine virtuelle s'importera puis une fois qu'elle sera importé vous pourrez la démarrer en cliquant sur son nom puis la flèche verte démarrer.  
 
 Les identifiants de la VM sont:  

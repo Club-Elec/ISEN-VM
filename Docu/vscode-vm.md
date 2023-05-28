@@ -15,7 +15,7 @@ Puis ouvrez le sous menu advanced
 ![Virtualbox network advanced](../screen/virtualbox-network.png)  
   
 Maintenant cliquez sur le bouton `Redirection de ports`, cela vous ouvrira un menu afin de redirigé les ports de votre VM, vérifiez qu'ils sont bien configurés comme sur le screenshot.  
-![VirtualBox ports](../screen/virtualbox-ports.png)  
+![VirtualBox ports](../screen/virtualbox-port.png)  
   
 Maintenant nos ports sont bien configurés, il faut ouvrir le SSH sur la VM.
 
@@ -30,7 +30,7 @@ La première ligne dit que le service SSH sera allumé au démarrage de la machi
 Maintenant il faut configurer VsCode pour pouvoir se connecter sur la VM. Sur VsCode allez dans l'onglet extension, puis chercher `remote SSH` et installer là.  
 ![Vscode Remote SSH](../screen/vscode-remote-ssh.png)  
 
-Une fois l'extension installé en bas à gauche vous devriez avoir quelque chose qui ressemble à "><", cliquez dessus, une fenêtre devrait apparaitre, choisissez `Ajouter un nouvel hôte SSH`.
+Une fois l'extension installée en bas à gauche vous devriez avoir quelque chose qui ressemble à "><", cliquez dessus, une fenêtre devrait apparaitre, choisissez `Ajouter un nouvel hôte SSH`.
 Puis dans la même fenêtre mettez cette ligne de commande:
 ```
 ssh isen@localhost -p 29200
